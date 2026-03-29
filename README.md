@@ -1,10 +1,6 @@
 # VaR-Edelweiss-Flexicap-Mutual-Fund-Project
 This repository acts as a code storage to my independent VaR (Value at Risk) Project, required in the field of Risk Management and Broader Finance.
 
-# Value at Risk Analysis — Edelweiss Flexi Cap Fund
-
-**A comparative analysis of Value at Risk estimation methods applied to a real Indian mutual fund portfolio**
-
 ---
 
 ## Overview
@@ -170,9 +166,8 @@ The CVaR of -2.28% (Historical) versus VaR of -1.41% reveals that when the thres
 
 ## Author
 
-**Auritro**  
-BA Honours (English) | Aspiring Risk Management Professional  
-Targeting: Market Risk | Enterprise Risk Management  
+**Aritra Tarafdar**  
+BA Honours (English - Major + Economics - Minor)   
 
 [LinkedIn](#) | [SSRN Working Paper](#)
 
