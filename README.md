@@ -169,7 +169,6 @@ The CVaR of -2.28% (Historical) versus VaR of -1.41% reveals that when the thres
 **Aritra Tarafdar**  
 BA Honours (English - Major + Economics - Minor)   
 
-[LinkedIn](#) | [SSRN Working Paper](#)
 
 ---
 
